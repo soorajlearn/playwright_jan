@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="49161" started-at="2023-02-26T09:33:56 IST" finished-at="2023-02-26T09:34:45 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="49161" started-at="2023-02-26T09:33:56 IST" finished-at="2023-02-26T09:34:45 IST">
+      <class name="week6.day1.E2E">
+        <test-method status="PASS" signature="setup()[pri:0, instance:week6.day1.E2E@75881071]" name="setup" is-config="true" duration-ms="9764" started-at="2023-02-26T09:33:56 IST" finished-at="2023-02-26T09:34:06 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="createLeadUsingAPI()[pri:0, instance:week6.day1.E2E@75881071]" name="createLeadUsingAPI" is-config="true" duration-ms="4145" started-at="2023-02-26T09:34:06 IST" finished-at="2023-02-26T09:34:10 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createLeadUsingAPI -->
+        <test-method status="PASS" signature="editLeadUsingUI()[pri:0, instance:week6.day1.E2E@75881071]" name="editLeadUsingUI" duration-ms="33716" started-at="2023-02-26T09:34:10 IST" finished-at="2023-02-26T09:34:44 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- editLeadUsingUI -->
+        <test-method status="PASS" signature="verifyEditedLeadUsingAPI()[pri:0, instance:week6.day1.E2E@75881071]" name="verifyEditedLeadUsingAPI" is-config="true" duration-ms="1100" started-at="2023-02-26T09:34:44 IST" finished-at="2023-02-26T09:34:45 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyEditedLeadUsingAPI -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:week6.day1.E2E@75881071]" name="tearDown" is-config="true" duration-ms="393" started-at="2023-02-26T09:34:45 IST" finished-at="2023-02-26T09:34:45 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- week6.day1.E2E -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
